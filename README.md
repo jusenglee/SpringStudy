@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=D9EAD3&height=150&section=header&text=WelCome!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome my github profile !
-<Strong>📧Email📧</Strong><br>choi8327@gmail.com<br>
+<Strong>📧Email📧</Strong><br>fpdlswj81@gmail.com<br>
  
   
 
